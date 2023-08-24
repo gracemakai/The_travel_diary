@@ -1,4 +1,4 @@
-package com.grace.thetraveldiary.ui.viemodels;
+package com.grace.thetraveldiary.viemodels;
 
 import androidx.databinding.BaseObservable;
 import androidx.databinding.Bindable;

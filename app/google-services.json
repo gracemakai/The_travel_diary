@@ -1,43 +1,42 @@
 {
   "project_info": {
-    "project_number": "900839408161",
-    "firebase_url": "https://i-need-it-you-have-it.firebaseio.com",
-    "project_id": "i-need-it-you-have-it",
-    "storage_bucket": "i-need-it-you-have-it.appspot.com"
+    "project_number": "276704305236",
+    "firebase_url": "https://donation-3ad5e-default-rtdb.firebaseio.com",
+    "project_id": "donation-3ad5e",
+    "storage_bucket": "donation-3ad5e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:900839408161:android:13422e513237e23b229960",
+        "mobilesdk_app_id": "1:276704305236:android:86e69f706c64aca12f0dc1",
         "android_client_info": {
-          "package_name": "com.grace.ineedityouhaveit"
+          "package_name": "com.example.donation_transparemcy"
         }
       },
       "oauth_client": [
         {
-          "client_id": "900839408161-ci7aibid058tl60vi3s029paevrddogf.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.grace.ineedityouhaveit",
-            "certificate_hash": "2c12c1c348baa31d23ede3a09d1892c1d64eff90"
-          }
-        },
-        {
-          "client_id": "900839408161-ae82n96vid4oi0c9uatogiqcun3g2l1o.apps.googleusercontent.com",
+          "client_id": "276704305236-qoot7kuslc8vdojivd11n5nl10ij14js.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAE6UdFir2p8nnSxtHeIgcvdpIhXk6YVac"
+          "current_key": "AIzaSyCMQ2VdR3Y1v1DEG5H6K4WseyuO1k66XI4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "900839408161-ae82n96vid4oi0c9uatogiqcun3g2l1o.apps.googleusercontent.com",
+              "client_id": "276704305236-qoot7kuslc8vdojivd11n5nl10ij14js.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "276704305236-o34rku5snhc9m2ub1b316gsmsgg4n1tp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emailVerificationTest"
+              }
             }
           ]
         }
@@ -45,28 +44,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:900839408161:android:f077e3443015ecf8229960",
+        "mobilesdk_app_id": "1:276704305236:android:bd00522a4b2c8cad2f0dc1",
         "android_client_info": {
-          "package_name": "com.grace.pdfreader"
+          "package_name": "com.example.email_verification_test"
         }
       },
       "oauth_client": [
         {
-          "client_id": "900839408161-ae82n96vid4oi0c9uatogiqcun3g2l1o.apps.googleusercontent.com",
+          "client_id": "276704305236-qoot7kuslc8vdojivd11n5nl10ij14js.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAE6UdFir2p8nnSxtHeIgcvdpIhXk6YVac"
+          "current_key": "AIzaSyCMQ2VdR3Y1v1DEG5H6K4WseyuO1k66XI4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "900839408161-ae82n96vid4oi0c9uatogiqcun3g2l1o.apps.googleusercontent.com",
+              "client_id": "276704305236-qoot7kuslc8vdojivd11n5nl10ij14js.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "276704305236-o34rku5snhc9m2ub1b316gsmsgg4n1tp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emailVerificationTest"
+              }
             }
           ]
         }
@@ -74,28 +80,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:900839408161:android:5d5ebb24093bc692229960",
+        "mobilesdk_app_id": "1:276704305236:android:06269594259855bb2f0dc1",
         "android_client_info": {
-          "package_name": "com.grace.pdfreaderdemo"
+          "package_name": "com.grace.payment"
         }
       },
       "oauth_client": [
         {
-          "client_id": "900839408161-ae82n96vid4oi0c9uatogiqcun3g2l1o.apps.googleusercontent.com",
+          "client_id": "276704305236-qoot7kuslc8vdojivd11n5nl10ij14js.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAE6UdFir2p8nnSxtHeIgcvdpIhXk6YVac"
+          "current_key": "AIzaSyCMQ2VdR3Y1v1DEG5H6K4WseyuO1k66XI4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "900839408161-ae82n96vid4oi0c9uatogiqcun3g2l1o.apps.googleusercontent.com",
+              "client_id": "276704305236-qoot7kuslc8vdojivd11n5nl10ij14js.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "276704305236-o34rku5snhc9m2ub1b316gsmsgg4n1tp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emailVerificationTest"
+              }
             }
           ]
         }
@@ -103,57 +116,35 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:900839408161:android:c30c404161136381229960",
-        "android_client_info": {
-          "package_name": "com.grace.remindme"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "900839408161-ae82n96vid4oi0c9uatogiqcun3g2l1o.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAE6UdFir2p8nnSxtHeIgcvdpIhXk6YVac"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "900839408161-ae82n96vid4oi0c9uatogiqcun3g2l1o.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:900839408161:android:09954276a43a25b9229960",
+        "mobilesdk_app_id": "1:276704305236:android:e8d9c8a1cb8e5ed92f0dc1",
         "android_client_info": {
           "package_name": "com.grace.thetraveldiary"
         }
       },
       "oauth_client": [
         {
-          "client_id": "900839408161-ae82n96vid4oi0c9uatogiqcun3g2l1o.apps.googleusercontent.com",
+          "client_id": "276704305236-qoot7kuslc8vdojivd11n5nl10ij14js.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAE6UdFir2p8nnSxtHeIgcvdpIhXk6YVac"
+          "current_key": "AIzaSyCMQ2VdR3Y1v1DEG5H6K4WseyuO1k66XI4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "900839408161-ae82n96vid4oi0c9uatogiqcun3g2l1o.apps.googleusercontent.com",
+              "client_id": "276704305236-qoot7kuslc8vdojivd11n5nl10ij14js.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "276704305236-o34rku5snhc9m2ub1b316gsmsgg4n1tp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emailVerificationTest"
+              }
             }
           ]
         }
